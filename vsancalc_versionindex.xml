@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<vSanExcelCalc>
-		<ProjectURL>http://jo.my/vsancalc</ProjectURL>
-		<HelpGuide>http://jo.my/vsancalc-help</HelpGuide>
-		<LatestVersion>2735</LatestVersion>
-	</vSanExcelCalc>
+<vSanExcelCalc>
+	<URL>http://jo.my/vsancalc</URL>
+	<LatestVersion>2735</LatestVersion>
+</vSanExcelCalc>
+<HelpGuide>
+	<URL>http://jo.my/vsancalc-help</URL>
+</HelpGuide>
