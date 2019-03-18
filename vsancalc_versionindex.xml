@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <assets>
-	<vSanExcelCalc>
+	<ExcelCalc>
 		<URL>http://jo.my/vsancalc</URL>
 		<LatestVersion>2735</LatestVersion>
-	</vSanExcelCalc>
+	</ExcelCalc>
 	<HelpGuide>
 		<URL>http://jo.my/vsancalc-help</URL>
 	</HelpGuide>
