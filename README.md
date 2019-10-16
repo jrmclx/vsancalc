@@ -2,16 +2,16 @@
 
 vSAN Excel Calculator is a macro-enabled Excel spreadsheet created to perform VMware vSAN (Virtual SAN) cluster sizing.
 
-An official sizing tool is available at https://vsansizer.vmware.com, but this tool takes a different calculation approach aimed at optimizing hardware configuration.
+An official sizer is available at https://vsansizer.vmware.com, but vSAN Excel Calc takes a different approach aimed at optimizing hardware configuration.
 
 Main difference comes from the initial assumption made to perform calculation.
 - Official sizer uses predefined node CPU and Memory settings to calculate storage configuration and amount of nodes. This approach can result in extra nodes being added to satisfy CPU/RAM requirements.
 - vSAN Excel Calc performs calculations to recommend minimum Memory configuration and optimal CPU selection to match resource requirements.
 
-Sizing is only based on capacity. Storage IOPS performance is not considered in calculation due to the unability to predict which hardware devices will be used (models, technologies and generation).
+In the present tool, sizing is only based on capacity. Storage IOPS performance is not considered in calculation due to the unability to predict which hardware devices will be used (models, technologies and generation).
 
 ## How to use it
-Please refer to the help guide to understand how to use the tool : https://github.com/jrmclx/vsancalc/blob/master/vSAN%20Calc%20Guide.pdf
+Please refer to the [help guide](https://github.com/jrmclx/vsancalc/blob/master/vSAN%20Calc%20Guide.pdf) to understand how to use the tool.
 A proper markdown user guide will be created later.
 
 ## Disclaimer
